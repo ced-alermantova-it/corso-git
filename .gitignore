@@ -1,0 +1,6 @@
+temp
+
+*.log
+
+#prima le cartelle, poi i tipi di file, poi i singoli file ed infine le eccezioni
+#!debug.log
